@@ -25,23 +25,13 @@
 |              5 | 📖 🆓 Metasploit によるシンプルなエクスプロイト実行 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-metasploit-simple-exploit-execution-632605'>ラボを開始</a>       |
 |              6 | 📖 🆓 Metasploit 基本ポストエクスプロイト           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-metasploit-basic-post-exploitation-632601'>ラボを開始</a>        |
 
-## 環境
+## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- 動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ。
-- ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
-- スキルツリーベースのシステムによる構造化されたコンテンツ組織。
-- 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
-- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
-
-詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
-- 🔗 [ プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [ プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [ 無料チュートリアル](https://github.com/labex-labs/cybersecurity-free-tutorials)
+- 🔗 [Cybersecurity プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity 無料チュートリアル](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
