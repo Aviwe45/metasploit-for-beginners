@@ -16,18 +16,18 @@
 
 ## 练习
 
-|   序号 | 名称                              | 难度   | 练习                                                                                                                        |
-|--------|-----------------------------------|--------|-----------------------------------------------------------------------------------------------------------------------------|
-|      1 | 📖 🆓 Metasploit 安装与初始设置   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-metasploit-installation-and-initial-setup-632603'>开始实验</a> |
-|      2 | 📖 🆓 Metasploit 控制台导航基础   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-metasploit-console-navigation-basics-632602'>开始实验</a>      |
-|      3 | 📖 🆓 Metasploit 模块搜索与选择   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-metasploit-module-search-and-selection-632604'>开始实验</a>    |
-|      4 | 📖 🆓 Metasploit 辅助扫描模块     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-metasploit-auxiliary-scanning-modules-632600'>开始实验</a>     |
-|      5 | 📖 🆓 Metasploit 简单漏洞利用执行 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-metasploit-simple-exploit-execution-632605'>开始实验</a>       |
-|      6 | 📖 🆓 Metasploit 基础后渗透技术   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-metasploit-basic-post-exploitation-632601'>开始实验</a>        |
+|   序号 | 名称                              | 难度   | 练习                                                                                                                                                   |
+|--------|-----------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      1 | 🧩 🆓 Metasploit 安装与初始设置   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-metasploit-installation-and-initial-setup-632603?course=metasploit-for-beginners'>开始实验</a> |
+|      2 | 🧩 🆓 Metasploit 控制台导航基础   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-metasploit-console-navigation-basics-632602?course=metasploit-for-beginners'>开始实验</a>      |
+|      3 | 🧩 🆓 Metasploit 模块搜索与选择   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-metasploit-module-search-and-selection-632604?course=metasploit-for-beginners'>开始实验</a>    |
+|      4 | 🧩 🆓 Metasploit 辅助扫描模块     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-metasploit-auxiliary-scanning-modules-632600?course=metasploit-for-beginners'>开始实验</a>     |
+|      5 | 🧩 🆓 Metasploit 简单漏洞利用执行 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-metasploit-simple-exploit-execution-632605?course=metasploit-for-beginners'>开始实验</a>       |
+|      6 | 🧩 🆓 Metasploit 基础后渗透技术   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-metasploit-basic-post-exploitation-632601?course=metasploit-for-beginners'>开始实验</a>        |
 
 ## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
+[LabEx](https://labex.io) 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），[LabEx](https://labex.io) 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
