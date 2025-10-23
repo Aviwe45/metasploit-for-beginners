@@ -16,18 +16,18 @@
 
 ## 演習
 
-|   インデックス | 名前                                                | 難易度   | 練習                                                                                                                          |
-|----------------|-----------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 🆓 Metasploit のインストールと初期設定           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-metasploit-installation-and-initial-setup-632603'>ラボを開始</a> |
-|              2 | 📖 🆓 Metasploit Console ナビゲーションの基本       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-metasploit-console-navigation-basics-632602'>ラボを開始</a>      |
-|              3 | 📖 🆓 Metasploit モジュールの検索と選択             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-metasploit-module-search-and-selection-632604'>ラボを開始</a>    |
-|              4 | 📖 🆓 Metasploit 補助スキャンモジュール             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-metasploit-auxiliary-scanning-modules-632600'>ラボを開始</a>     |
-|              5 | 📖 🆓 Metasploit によるシンプルなエクスプロイト実行 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-metasploit-simple-exploit-execution-632605'>ラボを開始</a>       |
-|              6 | 📖 🆓 Metasploit 基本ポストエクスプロイト           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-metasploit-basic-post-exploitation-632601'>ラボを開始</a>        |
+|   インデックス | 名前                                                | 難易度   | 練習                                                                                                                                                     |
+|----------------|-----------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|              1 | 🧩 🆓 Metasploit のインストールと初期設定           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-metasploit-installation-and-initial-setup-632603?course=metasploit-for-beginners'>ラボを開始</a> |
+|              2 | 🧩 🆓 Metasploit Console ナビゲーションの基本       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-metasploit-console-navigation-basics-632602?course=metasploit-for-beginners'>ラボを開始</a>      |
+|              3 | 🧩 🆓 Metasploit モジュールの検索と選択             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-metasploit-module-search-and-selection-632604?course=metasploit-for-beginners'>ラボを開始</a>    |
+|              4 | 🧩 🆓 Metasploit 補助スキャンモジュール             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-metasploit-auxiliary-scanning-modules-632600?course=metasploit-for-beginners'>ラボを開始</a>     |
+|              5 | 🧩 🆓 Metasploit によるシンプルなエクスプロイト実行 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-metasploit-simple-exploit-execution-632605?course=metasploit-for-beginners'>ラボを開始</a>       |
+|              6 | 🧩 🆓 Metasploit 基本ポストエクスプロイト           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-metasploit-basic-post-exploitation-632601?course=metasploit-for-beginners'>ラボを開始</a>        |
 
 ## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
