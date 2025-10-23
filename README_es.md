@@ -16,18 +16,18 @@ En este curso, aprenda los fundamentos del uso de Metasploit, un potente framewo
 
 ## Ejercicios
 
-|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                               |
-|----------|-------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 🆓 Instalación y Configuración Inicial de Metasploit     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-metasploit-installation-and-initial-setup-632603'>Iniciar Laboratorio</a> |
-|        2 | 📖 🆓 Conceptos Básicos de Navegación en la Consola Meta... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-metasploit-console-navigation-basics-632602'>Iniciar Laboratorio</a>      |
-|        3 | 📖 🆓 Búsqueda y Selección de Módulos de Metasploit         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-metasploit-module-search-and-selection-632604'>Iniciar Laboratorio</a>    |
-|        4 | 📖 🆓 Módulos Auxiliares de Escaneo de Metasploit           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-metasploit-auxiliary-scanning-modules-632600'>Iniciar Laboratorio</a>     |
-|        5 | 📖 🆓 Ejecución de Exploit Simple con Metasploit            | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-metasploit-simple-exploit-execution-632605'>Iniciar Laboratorio</a>       |
-|        6 | 📖 🆓 Post-Explotación Básica con Metasploit                | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-metasploit-basic-post-exploitation-632601'>Iniciar Laboratorio</a>        |
+|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                                                          |
+|----------|-------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🧩 🆓 Instalación y Configuración Inicial de Metasploit     | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-metasploit-installation-and-initial-setup-632603?course=metasploit-for-beginners'>Iniciar Laboratorio</a> |
+|        2 | 🧩 🆓 Conceptos Básicos de Navegación en la Consola Meta... | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-metasploit-console-navigation-basics-632602?course=metasploit-for-beginners'>Iniciar Laboratorio</a>      |
+|        3 | 🧩 🆓 Búsqueda y Selección de Módulos de Metasploit         | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-metasploit-module-search-and-selection-632604?course=metasploit-for-beginners'>Iniciar Laboratorio</a>    |
+|        4 | 🧩 🆓 Módulos Auxiliares de Escaneo de Metasploit           | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-metasploit-auxiliary-scanning-modules-632600?course=metasploit-for-beginners'>Iniciar Laboratorio</a>     |
+|        5 | 🧩 🆓 Ejecución de Exploit Simple con Metasploit            | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-metasploit-simple-exploit-execution-632605?course=metasploit-for-beginners'>Iniciar Laboratorio</a>       |
+|        6 | 🧩 🆓 Post-Explotación Básica con Metasploit                | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-metasploit-basic-post-exploitation-632601?course=metasploit-for-beginners'>Iniciar Laboratorio</a>        |
 
 ## Acerca de LabEx
 
-LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
+[LabEx](https://labex.io) es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 ## Más
 
